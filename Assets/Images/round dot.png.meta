@@ -1,0 +1,5330 @@
+fileFormatVersion: 2
+guid: e88967f817d02b74bab787aa18d2f6c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5392729895872552794
+    second: round dot_0
+  - first:
+      213: -5568783949214980131
+    second: round dot_1
+  - first:
+      213: 5282520668834060749
+    second: round dot_2
+  - first:
+      213: -2217343943189140747
+    second: round dot_3
+  - first:
+      213: 5477957723305623385
+    second: round dot_4
+  - first:
+      213: 1939903261917745494
+    second: round dot_5
+  - first:
+      213: -973855931226076949
+    second: round dot_6
+  - first:
+      213: -6404623239963364123
+    second: round dot_7
+  - first:
+      213: -5320649642361807865
+    second: round dot_8
+  - first:
+      213: -8692014089248995997
+    second: round dot_9
+  - first:
+      213: 7814206116568074271
+    second: round dot_10
+  - first:
+      213: 2694611311664242878
+    second: round dot_11
+  - first:
+      213: 4903832668613479546
+    second: round dot_12
+  - first:
+      213: -2675477435491639809
+    second: round dot_13
+  - first:
+      213: 1783512005576264540
+    second: round dot_14
+  - first:
+      213: -9030497798222125245
+    second: round dot_15
+  - first:
+      213: -6565488894570810426
+    second: round dot_16
+  - first:
+      213: -1499064396875352906
+    second: round dot_17
+  - first:
+      213: 2764852695843578348
+    second: round dot_18
+  - first:
+      213: 2504690896759516363
+    second: round dot_19
+  - first:
+      213: 4713169446859167284
+    second: round dot_20
+  - first:
+      213: -2571765665626533009
+    second: round dot_21
+  - first:
+      213: -1861768502583562421
+    second: round dot_22
+  - first:
+      213: 5337479689109692321
+    second: round dot_23
+  - first:
+      213: 326022421279999155
+    second: round dot_24
+  - first:
+      213: 8712560945129078740
+    second: round dot_25
+  - first:
+      213: -8573918123846474314
+    second: round dot_26
+  - first:
+      213: -2146103018201722569
+    second: round dot_27
+  - first:
+      213: 6722159200067788294
+    second: round dot_28
+  - first:
+      213: -8304952304299240362
+    second: round dot_29
+  - first:
+      213: -6757782460572354615
+    second: round dot_30
+  - first:
+      213: -7020865268042085498
+    second: round dot_31
+  - first:
+      213: 4784452124535723218
+    second: round dot_32
+  - first:
+      213: -6118497344937444576
+    second: round dot_33
+  - first:
+      213: -7897854436675222407
+    second: round dot_34
+  - first:
+      213: 13933843282391715
+    second: round dot_35
+  - first:
+      213: 4243846063682259952
+    second: round dot_36
+  - first:
+      213: 8624465037371873657
+    second: round dot_37
+  - first:
+      213: -4262378414532452756
+    second: round dot_38
+  - first:
+      213: 4980852900638352841
+    second: round dot_39
+  - first:
+      213: 1038026745261605686
+    second: round dot_40
+  - first:
+      213: 5489894518538160881
+    second: round dot_41
+  - first:
+      213: -3028784125193986773
+    second: round dot_42
+  - first:
+      213: -5686034321992536643
+    second: round dot_43
+  - first:
+      213: -5700320111578175362
+    second: round dot_44
+  - first:
+      213: 1754601161710004972
+    second: round dot_45
+  - first:
+      213: -4312091357623820322
+    second: round dot_46
+  - first:
+      213: -8384876383023135689
+    second: round dot_47
+  - first:
+      213: -3807451067346216072
+    second: round dot_48
+  - first:
+      213: -2664640592467593804
+    second: round dot_49
+  - first:
+      213: 6484451091853111654
+    second: round dot_50
+  - first:
+      213: -7197037523678698159
+    second: round dot_51
+  - first:
+      213: 7338713583956703716
+    second: round dot_52
+  - first:
+      213: -8611928857376432218
+    second: round dot_53
+  - first:
+      213: -9100199130196555991
+    second: round dot_54
+  - first:
+      213: 1155070555488689836
+    second: round dot_55
+  - first:
+      213: 1530899767284218918
+    second: round dot_56
+  - first:
+      213: -6569083231629816048
+    second: round dot_57
+  - first:
+      213: 5099868021558766429
+    second: round dot_58
+  - first:
+      213: -2803446813175339404
+    second: round dot_59
+  - first:
+      213: 8659803573868175332
+    second: round dot_60
+  - first:
+      213: -2643970850759012218
+    second: round dot_61
+  - first:
+      213: 5150076289999800003
+    second: round dot_62
+  - first:
+      213: 2658823569219208059
+    second: round dot_63
+  - first:
+      213: 6522707021745194629
+    second: round dot_64
+  - first:
+      213: -5832673579355036201
+    second: round dot_65
+  - first:
+      213: 5229970523926180832
+    second: round dot_66
+  - first:
+      213: 9216185042408559559
+    second: round dot_67
+  - first:
+      213: 1644666823112633722
+    second: round dot_68
+  - first:
+      213: -4157716015421561563
+    second: round dot_69
+  - first:
+      213: -7780279235540891752
+    second: round dot_70
+  - first:
+      213: 2415365685990598849
+    second: round dot_71
+  - first:
+      213: 3568530783297745024
+    second: round dot_72
+  - first:
+      213: 6426447935462768289
+    second: round dot_73
+  - first:
+      213: 8789018485855615729
+    second: round dot_74
+  - first:
+      213: -6986211979677095979
+    second: round dot_75
+  - first:
+      213: 4619787375897857324
+    second: round dot_76
+  - first:
+      213: -2546465591163599830
+    second: round dot_77
+  - first:
+      213: -8140259736695798432
+    second: round dot_78
+  - first:
+      213: 350348860762181384
+    second: round dot_79
+  - first:
+      213: -5677571490720245296
+    second: round dot_80
+  - first:
+      213: -1254750773092517760
+    second: round dot_81
+  - first:
+      213: 8620710923392302937
+    second: round dot_82
+  - first:
+      213: -2797591378073089042
+    second: round dot_83
+  - first:
+      213: 1816422320862913342
+    second: round dot_84
+  - first:
+      213: -9218042721930400341
+    second: round dot_85
+  - first:
+      213: -4438170917426905288
+    second: round dot_86
+  - first:
+      213: -6937382728315003116
+    second: round dot_87
+  - first:
+      213: -4491416564088461564
+    second: round dot_88
+  - first:
+      213: -5840496301188680805
+    second: round dot_89
+  - first:
+      213: 1549910702875032471
+    second: round dot_90
+  - first:
+      213: 2184141535796564200
+    second: round dot_91
+  - first:
+      213: -62331167396736774
+    second: round dot_92
+  - first:
+      213: 6202259499291275642
+    second: round dot_93
+  - first:
+      213: -1364511297928873089
+    second: round dot_94
+  - first:
+      213: -5030974434421395853
+    second: round dot_95
+  - first:
+      213: -6362470769325855428
+    second: round dot_96
+  - first:
+      213: -6045891324360033941
+    second: round dot_97
+  - first:
+      213: -1750592119163103103
+    second: round dot_98
+  - first:
+      213: -8569110723818504764
+    second: round dot_99
+  - first:
+      213: -5141612942985591944
+    second: round dot_100
+  - first:
+      213: -5684058777640488039
+    second: round dot_101
+  - first:
+      213: 3402176452818184745
+    second: round dot_102
+  - first:
+      213: 6062908380596270952
+    second: round dot_103
+  - first:
+      213: 6642358028370890050
+    second: round dot_104
+  - first:
+      213: -6432178427576376400
+    second: round dot_105
+  - first:
+      213: -2030190807618547579
+    second: round dot_106
+  - first:
+      213: -2881041370107414521
+    second: round dot_107
+  - first:
+      213: -6023177437720642389
+    second: round dot_108
+  - first:
+      213: 5268226430694389793
+    second: round dot_109
+  - first:
+      213: 2198008711475772377
+    second: round dot_110
+  - first:
+      213: -5627074141419449340
+    second: round dot_111
+  - first:
+      213: 6237541879529052881
+    second: round dot_112
+  - first:
+      213: 6565060848677449866
+    second: round dot_113
+  - first:
+      213: -3140772191729271098
+    second: round dot_114
+  - first:
+      213: 6501849166777279494
+    second: round dot_115
+  - first:
+      213: -6730438177740700919
+    second: round dot_116
+  - first:
+      213: 8411260907818039787
+    second: round dot_117
+  - first:
+      213: 6892762208842738015
+    second: round dot_118
+  - first:
+      213: -5265721292802659577
+    second: round dot_119
+  - first:
+      213: 899447096805626143
+    second: round dot_120
+  - first:
+      213: -7920095074726596759
+    second: round dot_121
+  - first:
+      213: -5024128166161298097
+    second: round dot_122
+  - first:
+      213: -1297469911277088217
+    second: round dot_123
+  - first:
+      213: 6687008879334483529
+    second: round dot_124
+  - first:
+      213: 8764175498851647530
+    second: round dot_125
+  - first:
+      213: -2655382085774642877
+    second: round dot_126
+  - first:
+      213: 4477824077712739527
+    second: round dot_127
+  - first:
+      213: 6076306463126081048
+    second: round dot_128
+  - first:
+      213: -3144936862539990782
+    second: round dot_129
+  - first:
+      213: -1118105011326055220
+    second: round dot_130
+  - first:
+      213: 7945419220546082865
+    second: round dot_131
+  - first:
+      213: 4560313689303802102
+    second: round dot_132
+  - first:
+      213: 8218424333721535984
+    second: round dot_133
+  - first:
+      213: 367194712664005019
+    second: round dot_134
+  - first:
+      213: 4689467105621752419
+    second: round dot_135
+  - first:
+      213: -1478098358168556544
+    second: round dot_136
+  - first:
+      213: -4551433320524578100
+    second: round dot_137
+  - first:
+      213: 6026403825017518846
+    second: round dot_138
+  - first:
+      213: -8071016826460410086
+    second: round dot_139
+  - first:
+      213: 7892679560225573282
+    second: round dot_140
+  - first:
+      213: 5393264405869663950
+    second: round dot_141
+  - first:
+      213: -8316193567398556631
+    second: round dot_142
+  - first:
+      213: 7862971463475748255
+    second: round dot_143
+  - first:
+      213: 6624926662329237539
+    second: round dot_144
+  - first:
+      213: -8781534153200391963
+    second: round dot_145
+  - first:
+      213: 5489248784582286746
+    second: round dot_146
+  - first:
+      213: 2901395917085473688
+    second: round dot_147
+  - first:
+      213: 6242111986367280388
+    second: round dot_148
+  - first:
+      213: -2167978281313626066
+    second: round dot_149
+  - first:
+      213: -3553510757187158713
+    second: round dot_150
+  - first:
+      213: -2995209463919115076
+    second: round dot_151
+  - first:
+      213: -1279080114309780574
+    second: round dot_152
+  - first:
+      213: 4471484259800180115
+    second: round dot_153
+  - first:
+      213: -1975583693332781876
+    second: round dot_154
+  - first:
+      213: -6129254321396602406
+    second: round dot_155
+  - first:
+      213: 8005437866158209124
+    second: round dot_156
+  - first:
+      213: 8788269123484470249
+    second: round dot_157
+  - first:
+      213: 6831742500324646647
+    second: round dot_158
+  - first:
+      213: -1845555537909590908
+    second: round dot_159
+  - first:
+      213: -3516634286714930422
+    second: round dot_160
+  - first:
+      213: 5444278973670646307
+    second: round dot_161
+  - first:
+      213: -7236904021822409976
+    second: round dot_162
+  - first:
+      213: -4876202927596996840
+    second: round dot_163
+  - first:
+      213: 8672263212644941195
+    second: round dot_164
+  - first:
+      213: 6374190382694310322
+    second: round dot_165
+  - first:
+      213: 197196805869401645
+    second: round dot_166
+  - first:
+      213: 2890335797453506608
+    second: round dot_167
+  - first:
+      213: 7279591401922962104
+    second: round dot_168
+  - first:
+      213: -6097792221202984960
+    second: round dot_169
+  - first:
+      213: 8536379933120259860
+    second: round dot_170
+  - first:
+      213: -3704859073399350202
+    second: round dot_171
+  - first:
+      213: 1171263570979187828
+    second: round dot_172
+  - first:
+      213: 7350757265724011976
+    second: round dot_173
+  - first:
+      213: -469095668499170257
+    second: round dot_174
+  - first:
+      213: -7092552014947304853
+    second: round dot_175
+  - first:
+      213: -8167384750016619144
+    second: round dot_176
+  - first:
+      213: -7466959104830750664
+    second: round dot_177
+  - first:
+      213: 8419503241993328041
+    second: round dot_178
+  - first:
+      213: 244416452832605170
+    second: round dot_179
+  - first:
+      213: -6774725726275344125
+    second: round dot_180
+  - first:
+      213: 2902584020532753862
+    second: round dot_181
+  - first:
+      213: -1886531789324926070
+    second: round dot_182
+  - first:
+      213: -7666930433202421861
+    second: round dot_183
+  - first:
+      213: -3531098099505793997
+    second: round dot_184
+  - first:
+      213: 7389303565079023315
+    second: round dot_185
+  - first:
+      213: 8784417584189105435
+    second: round dot_186
+  - first:
+      213: 754562950695073759
+    second: round dot_187
+  - first:
+      213: 5294577204350243755
+    second: round dot_188
+  - first:
+      213: 3691739093001188482
+    second: round dot_189
+  - first:
+      213: 562140781010044021
+    second: round dot_190
+  - first:
+      213: -356599103160876269
+    second: round dot_191
+  - first:
+      213: -3624791528490807623
+    second: round dot_192
+  - first:
+      213: 3263372935425835395
+    second: round dot_193
+  - first:
+      213: 7825060658186562092
+    second: round dot_194
+  - first:
+      213: -9132250618488593032
+    second: round dot_195
+  - first:
+      213: 4631082411313938693
+    second: round dot_196
+  - first:
+      213: -3675806994829320192
+    second: round dot_197
+  - first:
+      213: -2433924510079890238
+    second: round dot_198
+  - first:
+      213: 1088721012916744635
+    second: round dot_199
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: round dot_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 238
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a023ea4bbc2925b0800000000000000
+      internalID: -5392729895872552794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_1
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7e42cb084b7b2b0800000000000000
+      internalID: -5568783949214980131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_2
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 780
+        width: 194
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc953807f884f4940800000000000000
+      internalID: 5282520668834060749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_3
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 781
+        width: 76
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fae8518e696a31e0800000000000000
+      internalID: -2217343943189140747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_4
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1008
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f3d30a68d950c40800000000000000
+      internalID: 5477957723305623385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_5
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1016
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6519a391dbbebea10800000000000000
+      internalID: 1939903261917745494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_6
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1008
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8ccd4b03b2c72f0800000000000000
+      internalID: -973855931226076949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_7
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 0
+        width: 485
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4b5cda8153e17a0800000000000000
+      internalID: -6404623239963364123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 970
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c17bc17514926b0800000000000000
+      internalID: -5320649642361807865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_9
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 999
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3658f93fc33cf5780800000000000000
+      internalID: -8692014089248995997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_10
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 991
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1889b3cf03a17c60800000000000000
+      internalID: 7814206116568074271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_11
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 994
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb02f7716be256520800000000000000
+      internalID: 2694611311664242878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_12
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 984
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c89aa94d9ed0440800000000000000
+      internalID: 4903832668613479546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_13
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 983
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd92fc927bcedad0800000000000000
+      internalID: -2675477435491639809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_14
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 987
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b840938be40c810800000000000000
+      internalID: 1783512005576264540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_15
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 976
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347e500291a3da280800000000000000
+      internalID: -9030497798222125245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_16
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 968
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3b556c2a2b2e4a0800000000000000
+      internalID: -6565488894570810426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_17
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 969
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b43fc89fd0423be0800000000000000
+      internalID: -1499064396875352906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_18
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 942
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1a908c0eabe5620800000000000000
+      internalID: 2764852695843578348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_19
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 960
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc6185a91372c220800000000000000
+      internalID: 2504690896759516363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_20
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 959
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436d346f3aa886140800000000000000
+      internalID: 4713169446859167284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_21
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 962
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63d8ceb0c04f4cd0800000000000000
+      internalID: -2571765665626533009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_22
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 952
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fee75396ba926e0800000000000000
+      internalID: -1861768502583562421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_23
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 952
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afde318f79821a40800000000000000
+      internalID: 5337479689109692321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_24
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 955
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b405313aa3468400800000000000000
+      internalID: 326022421279999155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 934
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df3c5ab40c39e870800000000000000
+      internalID: 8712560945129078740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_26
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 943
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5e8d694e2530980800000000000000
+      internalID: -8573918123846474314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_27
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 943
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73151bceca28732e0800000000000000
+      internalID: -2146103018201722569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_28
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 936
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e1aab4d28e94d50800000000000000
+      internalID: 6722159200067788294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_29
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 928
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6549ea971e1eebc80800000000000000
+      internalID: -8304952304299240362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_30
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 930
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7383808a88732a0800000000000000
+      internalID: -6757782460572354615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_31
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 904
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b4972ac30e09e90800000000000000
+      internalID: -7020865268042085498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_32
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 921
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d490dfabd9c56240800000000000000
+      internalID: 4784452124535723218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_33
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 899
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b35dbf41bb61ba0800000000000000
+      internalID: -6118497344937444576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_34
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 895
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9740b360c3f256290800000000000000
+      internalID: -7897854436675222407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_35
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 904
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2f333b1c0813000800000000000000
+      internalID: 13933843282391715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_36
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 891
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb8833928b25ea30800000000000000
+      internalID: 4243846063682259952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_37
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 884
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9799352d14140b770800000000000000
+      internalID: 8624465037371873657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_38
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 883
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e108f3a6df8d4c0800000000000000
+      internalID: -4262378414532452756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_39
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 888
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5e50dc25b8f1540800000000000000
+      internalID: 4980852900638352841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_40
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 862
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6334caa33dfc76e00800000000000000
+      internalID: 1038026745261605686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_41
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 879
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fac4d75af5003c40800000000000000
+      internalID: 5489894518538160881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_42
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 883
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d5874a2e897f5d0800000000000000
+      internalID: -3028784125193986773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_43
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 871
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbda4f8f8e52711b0800000000000000
+      internalID: -5686034321992536643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_44
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 873
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e782e536f0564e0b0800000000000000
+      internalID: -5700320111578175362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_45
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 865
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea6636d578995810800000000000000
+      internalID: 1754601161710004972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_46
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 854
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edfdcc5b1cf5824c0800000000000000
+      internalID: -4312091357623820322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_47
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 863
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7340858ca5fe2ab80800000000000000
+      internalID: -8384876383023135689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_48
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 807
+        width: 10
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b952f4d67392bc0800000000000000
+      internalID: -3807451067346216072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_49
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 832
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5f1efbf7b450bd0800000000000000
+      internalID: -2664640592467593804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_50
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 850
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6617c4579e56df950800000000000000
+      internalID: 6484451091853111654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_51
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 843
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15569f5f08cfe1c90800000000000000
+      internalID: -7197037523678698159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_52
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 835
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9b2185f1958d560800000000000000
+      internalID: 7338713583956703716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_53
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 819
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af542905584c7880800000000000000
+      internalID: -8611928857376432218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_54
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 786
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927c0532b1995b180800000000000000
+      internalID: -9100199130196555991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_55
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 811
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae9a66ec82a70010800000000000000
+      internalID: 1155070555488689836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_56
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 774
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c34bf2a39de3510800000000000000
+      internalID: 1530899767284218918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_57
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 0
+        width: 540
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fcab6fa9de5d4a0800000000000000
+      internalID: -6569083231629816048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_58
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 784
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b626202fe56c640800000000000000
+      internalID: 5099868021558766429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_59
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 776
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476abf90af72819d0800000000000000
+      internalID: -2803446813175339404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_60
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 779
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef1215087dcd2870800000000000000
+      internalID: 8659803573868175332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_61
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 768
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6809504058abe4bd0800000000000000
+      internalID: -2643970850759012218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_62
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 768
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c68997791fb87740800000000000000
+      internalID: 5150076289999800003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_63
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 752
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b734fbbf2f906e420800000000000000
+      internalID: 2658823569219208059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_64
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 750
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586811d3a7f458a50800000000000000
+      internalID: 6522707021745194629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_65
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 758
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5acbb484e2e0fa0800000000000000
+      internalID: -5832673579355036201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_66
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 724
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e332606b76949840800000000000000
+      internalID: 5229970523926180832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_67
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 731
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3d705777776ef70800000000000000
+      internalID: 9216185042408559559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_68
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 744
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7daf7503c703d610800000000000000
+      internalID: 1644666823112633722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_69
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 703
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52568dfff43dc46c0800000000000000
+      internalID: -4157716015421561563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_70
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 731
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897cc38c145e60490800000000000000
+      internalID: -7780279235540891752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_71
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 715
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c823245b4a158120800000000000000
+      internalID: 2415365685990598849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_72
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 710
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080328c27d7f58130800000000000000
+      internalID: 3568530783297745024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_73
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 691
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aefcc839545f2950800000000000000
+      internalID: 6426447935462768289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_74
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 680
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1faf3c52fbdd8f970800000000000000
+      internalID: 8789018485855615729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_75
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 655
+        width: 12
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7a4c1183dfb0f90800000000000000
+      internalID: -6986211979677095979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_76
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 662
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2dc9364428cc1040800000000000000
+      internalID: 4619787375897857324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_77
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 648
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2440fd590329acd0800000000000000
+      internalID: -2546465591163599830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_78
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 631
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06505def5ecf70f80800000000000000
+      internalID: -8140259736695798432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 622
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f4131ce60bcd400800000000000000
+      internalID: 350348860762181384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_80
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 614
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d91cbc6fc63531b0800000000000000
+      internalID: -5677571490720245296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_81
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 606
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0887c20e1da369ee0800000000000000
+      internalID: -1254750773092517760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_82
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 576
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fb02c09eae2a770800000000000000
+      internalID: 8620710923392302937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_83
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 566
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb0243c675fc29d0800000000000000
+      internalID: -2797591378073089042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_84
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 558
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33ef1d1a7a353910800000000000000
+      internalID: 1816422320862913342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_85
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 526
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bada6f2dbfee21080800000000000000
+      internalID: -9218042721930400341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_86
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 544
+        width: 9
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fbc46a0137862c0800000000000000
+      internalID: -4438170917426905288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_87
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 535
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f9ad71a2779bf90800000000000000
+      internalID: -6937382728315003116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_88
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 571
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407a3377e684ba1c0800000000000000
+      internalID: -4491416564088461564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_89
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 555
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b937aafee8362fea0800000000000000
+      internalID: -5840496301188680805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_90
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 520
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b317e8293628510800000000000000
+      internalID: 1549910702875032471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_91
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 496
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0945c9721af4e10800000000000000
+      internalID: 2184141535796564200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_92
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 446
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0d1ec222e822ff0800000000000000
+      internalID: -62331167396736774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_93
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 510
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a717c04572ad21650800000000000000
+      internalID: 6202259499291275642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_94
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 487
+        width: 8
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b31fa3438401de0800000000000000
+      internalID: -1364511297928873089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_95
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 456
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ead3a38636e2ab0800000000000000
+      internalID: -5030974434421395853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_96
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 491
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3da68c8b86f3b7a0800000000000000
+      internalID: -6362470769325855428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_97
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 467
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6977ec7fdda81ca0800000000000000
+      internalID: -6045891324360033941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_98
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 435
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1885fae1eb5a4b7e0800000000000000
+      internalID: -1750592119163103103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_99
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 448
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdbec1a237641980800000000000000
+      internalID: -8569110723818504764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_100
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 368
+        width: 8
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8730bc0154255a8b0800000000000000
+      internalID: -5141612942985591944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_101
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 422
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9933c4c38aa2e11b0800000000000000
+      internalID: -5684058777640488039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_102
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 406
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a2d655575f63f20800000000000000
+      internalID: 3402176452818184745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_103
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 411
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867fd2bac07c32450800000000000000
+      internalID: 6062908380596270952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_104
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 374
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24dc2002f656e2c50800000000000000
+      internalID: 6642358028370890050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_105
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 350
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3216c9ccf4cb6a0800000000000000
+      internalID: -6432178427576376400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_106
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 302
+        width: 8
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58012a5873053d3e0800000000000000
+      internalID: -2030190807618547579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_107
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 344
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708fa87632c7408d0800000000000000
+      internalID: -2881041370107414521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_108
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 327
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac73855800696ca0800000000000000
+      internalID: -6023177437720642389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_109
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 319
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128fcd5c6008c1940800000000000000
+      internalID: 5268226430694389793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_110
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 328
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db3abc0745e08e10800000000000000
+      internalID: 2198008711475772377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_111
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 296
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40458e3c1ed98e1b0800000000000000
+      internalID: -5627074141419449340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_112
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 311
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da93f0aa43309650800000000000000
+      internalID: 6237541879529052881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_113
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 286
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a807e360f08cb1b50800000000000000
+      internalID: 6565060848677449866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_114
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 278
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce3d87055cb964d0800000000000000
+      internalID: -3140772191729271098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_115
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 268
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604ede07e553b3a50800000000000000
+      internalID: 6501849166777279494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_116
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 272
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903c901032ea892a0800000000000000
+      internalID: -6730438177740700919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_117
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 280
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9bf9b1b3dcab470800000000000000
+      internalID: 8411260907818039787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_118
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 279
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59ee43a5b208af50800000000000000
+      internalID: 6892762208842738015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_119
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 251
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b694812666ce6b0800000000000000
+      internalID: -5265721292802659577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_120
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 282
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f111b5b7e5a7b7c00800000000000000
+      internalID: 899447096805626143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_121
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 251
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fa993fd7b261290800000000000000
+      internalID: -7920095074726596759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_122
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 254
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4dcbe54d06b64ab0800000000000000
+      internalID: -5024128166161298097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_123
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 246
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722529f6df57efde0800000000000000
+      internalID: -1297469911277088217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_124
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 214
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9466d9e75270dcc50800000000000000
+      internalID: 6687008879334483529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_125
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 243
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a200c3e7e2b90a970800000000000000
+      internalID: 8764175498851647530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_126
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 239
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3417772df00362bd0800000000000000
+      internalID: -2655382085774642877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_127
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 232
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc42ce264d642e30800000000000000
+      internalID: 4477824077712739527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_128
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 227
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e4a09d880635450800000000000000
+      internalID: 6076306463126081048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_129
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 234
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209b54b0690fa54d0800000000000000
+      internalID: -3144936862539990782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_130
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 192
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc835a8a61bb70f0800000000000000
+      internalID: -1118105011326055220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_131
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 208
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138d5383facc34e60800000000000000
+      internalID: 7945419220546082865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_132
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 198
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0ed4b832d794f30800000000000000
+      internalID: 4560313689303802102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_133
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 203
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f506e07365bd0270800000000000000
+      internalID: 8218424333721535984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_134
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 191
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b995dbb45a9881500800000000000000
+      internalID: 367194712664005019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_135
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 195
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ab6789c75541140800000000000000
+      internalID: 4689467105621752419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_136
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 160
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c6642ef5dbc7be0800000000000000
+      internalID: -1478098358168556544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_137
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 176
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2814f628f06d0c0800000000000000
+      internalID: -4551433320524578100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_138
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 186
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa793f795612a350800000000000000
+      internalID: 6026403825017518846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_139
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 183
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f60aa55fcfdff80800000000000000
+      internalID: -8071016826460410086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_140
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 168
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a94b392e3e688d60800000000000000
+      internalID: 7892679560225573282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_141
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 173
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec69e930769b8da40800000000000000
+      internalID: 5393264405869663950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_142
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 163
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c02d3f202f69c80800000000000000
+      internalID: -8316193567398556631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_143
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 150
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d518fd2e2ee1d60800000000000000
+      internalID: 7862971463475748255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_144
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 152
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3200623f2b770fb50800000000000000
+      internalID: 6624926662329237539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_145
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 151
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8a787d639b12680800000000000000
+      internalID: -8781534153200391963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_146
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 155
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d95c0bfaabd2c40800000000000000
+      internalID: 5489248784582286746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_147
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 136
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bf5aed634d34820800000000000000
+      internalID: 2901395917085473688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_148
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 147
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40531ab87cf60a650800000000000000
+      internalID: 6242111986367280388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_149
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 143
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e281a855d3bc9e1e0800000000000000
+      internalID: -2167978281313626066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_150
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 139
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d745c2bc46faec0800000000000000
+      internalID: -3553510757187158713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_151
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 126
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb48633acd0ee66d0800000000000000
+      internalID: -2995209463919115076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_152
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 136
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abac43b96bcf3ee0800000000000000
+      internalID: -1279080114309780574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_153
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 130
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395e32c4e37ed0e30800000000000000
+      internalID: 4471484259800180115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_154
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 135
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc468d619115594e0800000000000000
+      internalID: -1975583693332781876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_155
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 119
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9a02b3ba380faa0800000000000000
+      internalID: -6129254321396602406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_156
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 130
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46832db1357091f60800000000000000
+      internalID: 8005437866158209124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_157
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 110
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb43df943436f970800000000000000
+      internalID: 8788269123484470249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_158
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 120
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe1ac0ab993fce50800000000000000
+      internalID: 6831742500324646647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_159
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 111
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484d4a534054366e0800000000000000
+      internalID: -1845555537909590908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_160
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 80
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bb5678fb7623fc0800000000000000
+      internalID: -3516634286714930422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_161
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 103
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32264cba1e6fd8b40800000000000000
+      internalID: 5444278973670646307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_162
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 88
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803fda9822a519b90800000000000000
+      internalID: -7236904021822409976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_163
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 103
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8177cd7c54f345cb0800000000000000
+      internalID: -4876202927596996840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_164
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 87
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8db36cb1711a5870800000000000000
+      internalID: 8672263212644941195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_165
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 98
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1a433916ca57850800000000000000
+      internalID: 6374190382694310322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_166
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 88
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26ffac33759cb200800000000000000
+      internalID: 197196805869401645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_167
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 80
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038cfc818198c1820800000000000000
+      internalID: 2890335797453506608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_168
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 71
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b22b95afcd460560800000000000000
+      internalID: 7279591401922962104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_169
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 79
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0005e05484a406ba0800000000000000
+      internalID: -6097792221202984960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_170
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 48
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417e76d4250577670800000000000000
+      internalID: 8536379933120259860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_171
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 72
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c162b4d42b59cc0800000000000000
+      internalID: -3704859073399350202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_172
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 59
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ce19e130a214010800000000000000
+      internalID: 1171263570979187828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_173
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 62
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5f99589c2230660800000000000000
+      internalID: 7350757265724011976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_174
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 56
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2cbe6199ff6d79f0800000000000000
+      internalID: -469095668499170257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_175
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 8
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ab5163581329d90800000000000000
+      internalID: -7092552014947304853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_176
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 48
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d115fa7de97ae80800000000000000
+      internalID: -8167384750016619144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_177
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 48
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830c13c7148006890800000000000000
+      internalID: -7466959104830750664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_178
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 46
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a51344179518d470800000000000000
+      internalID: 8419503241993328041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_179
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 50
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f339580877546300800000000000000
+      internalID: 244416452832605170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_180
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 41
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30968a298d65bf1a0800000000000000
+      internalID: -6774725726275344125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_181
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 40
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c57492c9cc084820800000000000000
+      internalID: 2902584020532753862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_182
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 39
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a834ec73551b1d5e0800000000000000
+      internalID: -1886531789324926070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_183
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 35
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f76536467999590800000000000000
+      internalID: -7666930433202421861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_184
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 39
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33476efacf40ffec0800000000000000
+      internalID: -3531098099505793997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_185
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 31
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de001631741c8660800000000000000
+      internalID: 7389303565079023315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_186
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 33
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b156940404588e970800000000000000
+      internalID: 8784417584189105435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_187
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 23
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7b9dc710fb87a00800000000000000
+      internalID: 754562950695073759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_188
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 23
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba35d2d5aed1a7940800000000000000
+      internalID: 5294577204350243755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_189
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 25
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28432c93521bb3330800000000000000
+      internalID: 3691739093001188482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_190
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 19
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5744ddddf002dc700800000000000000
+      internalID: 562140781010044021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_191
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 16
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3138fd8410b1d0bf0800000000000000
+      internalID: -356599103160876269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_192
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 9
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bec57f4f4722bdc0800000000000000
+      internalID: -3624791528490807623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_193
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 15
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3814ea90564d94d20800000000000000
+      internalID: 3263372935425835395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_194
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 10
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a281da533389c60800000000000000
+      internalID: 7825060658186562092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_195
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875652d727ab34180800000000000000
+      internalID: -9132250618488593032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_196
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 0
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5014de3aae8e44040800000000000000
+      internalID: 4631082411313938693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_197
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 6
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0006d427309ecfcc0800000000000000
+      internalID: -3675806994829320192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_198
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc4296bd86f83ed0800000000000000
+      internalID: -2433924510079890238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round dot_199
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1f7623ef9eb1f00800000000000000
+      internalID: 1088721012916744635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      round dot_0: -5392729895872552794
+      round dot_1: -5568783949214980131
+      round dot_10: 7814206116568074271
+      round dot_100: -5141612942985591944
+      round dot_101: -5684058777640488039
+      round dot_102: 3402176452818184745
+      round dot_103: 6062908380596270952
+      round dot_104: 6642358028370890050
+      round dot_105: -6432178427576376400
+      round dot_106: -2030190807618547579
+      round dot_107: -2881041370107414521
+      round dot_108: -6023177437720642389
+      round dot_109: 5268226430694389793
+      round dot_11: 2694611311664242878
+      round dot_110: 2198008711475772377
+      round dot_111: -5627074141419449340
+      round dot_112: 6237541879529052881
+      round dot_113: 6565060848677449866
+      round dot_114: -3140772191729271098
+      round dot_115: 6501849166777279494
+      round dot_116: -6730438177740700919
+      round dot_117: 8411260907818039787
+      round dot_118: 6892762208842738015
+      round dot_119: -5265721292802659577
+      round dot_12: 4903832668613479546
+      round dot_120: 899447096805626143
+      round dot_121: -7920095074726596759
+      round dot_122: -5024128166161298097
+      round dot_123: -1297469911277088217
+      round dot_124: 6687008879334483529
+      round dot_125: 8764175498851647530
+      round dot_126: -2655382085774642877
+      round dot_127: 4477824077712739527
+      round dot_128: 6076306463126081048
+      round dot_129: -3144936862539990782
+      round dot_13: -2675477435491639809
+      round dot_130: -1118105011326055220
+      round dot_131: 7945419220546082865
+      round dot_132: 4560313689303802102
+      round dot_133: 8218424333721535984
+      round dot_134: 367194712664005019
+      round dot_135: 4689467105621752419
+      round dot_136: -1478098358168556544
+      round dot_137: -4551433320524578100
+      round dot_138: 6026403825017518846
+      round dot_139: -8071016826460410086
+      round dot_14: 1783512005576264540
+      round dot_140: 7892679560225573282
+      round dot_141: 5393264405869663950
+      round dot_142: -8316193567398556631
+      round dot_143: 7862971463475748255
+      round dot_144: 6624926662329237539
+      round dot_145: -8781534153200391963
+      round dot_146: 5489248784582286746
+      round dot_147: 2901395917085473688
+      round dot_148: 6242111986367280388
+      round dot_149: -2167978281313626066
+      round dot_15: -9030497798222125245
+      round dot_150: -3553510757187158713
+      round dot_151: -2995209463919115076
+      round dot_152: -1279080114309780574
+      round dot_153: 4471484259800180115
+      round dot_154: -1975583693332781876
+      round dot_155: -6129254321396602406
+      round dot_156: 8005437866158209124
+      round dot_157: 8788269123484470249
+      round dot_158: 6831742500324646647
+      round dot_159: -1845555537909590908
+      round dot_16: -6565488894570810426
+      round dot_160: -3516634286714930422
+      round dot_161: 5444278973670646307
+      round dot_162: -7236904021822409976
+      round dot_163: -4876202927596996840
+      round dot_164: 8672263212644941195
+      round dot_165: 6374190382694310322
+      round dot_166: 197196805869401645
+      round dot_167: 2890335797453506608
+      round dot_168: 7279591401922962104
+      round dot_169: -6097792221202984960
+      round dot_17: -1499064396875352906
+      round dot_170: 8536379933120259860
+      round dot_171: -3704859073399350202
+      round dot_172: 1171263570979187828
+      round dot_173: 7350757265724011976
+      round dot_174: -469095668499170257
+      round dot_175: -7092552014947304853
+      round dot_176: -8167384750016619144
+      round dot_177: -7466959104830750664
+      round dot_178: 8419503241993328041
+      round dot_179: 244416452832605170
+      round dot_18: 2764852695843578348
+      round dot_180: -6774725726275344125
+      round dot_181: 2902584020532753862
+      round dot_182: -1886531789324926070
+      round dot_183: -7666930433202421861
+      round dot_184: -3531098099505793997
+      round dot_185: 7389303565079023315
+      round dot_186: 8784417584189105435
+      round dot_187: 754562950695073759
+      round dot_188: 5294577204350243755
+      round dot_189: 3691739093001188482
+      round dot_19: 2504690896759516363
+      round dot_190: 562140781010044021
+      round dot_191: -356599103160876269
+      round dot_192: -3624791528490807623
+      round dot_193: 3263372935425835395
+      round dot_194: 7825060658186562092
+      round dot_195: -9132250618488593032
+      round dot_196: 4631082411313938693
+      round dot_197: -3675806994829320192
+      round dot_198: -2433924510079890238
+      round dot_199: 1088721012916744635
+      round dot_2: 5282520668834060749
+      round dot_20: 4713169446859167284
+      round dot_21: -2571765665626533009
+      round dot_22: -1861768502583562421
+      round dot_23: 5337479689109692321
+      round dot_24: 326022421279999155
+      round dot_25: 8712560945129078740
+      round dot_26: -8573918123846474314
+      round dot_27: -2146103018201722569
+      round dot_28: 6722159200067788294
+      round dot_29: -8304952304299240362
+      round dot_3: -2217343943189140747
+      round dot_30: -6757782460572354615
+      round dot_31: -7020865268042085498
+      round dot_32: 4784452124535723218
+      round dot_33: -6118497344937444576
+      round dot_34: -7897854436675222407
+      round dot_35: 13933843282391715
+      round dot_36: 4243846063682259952
+      round dot_37: 8624465037371873657
+      round dot_38: -4262378414532452756
+      round dot_39: 4980852900638352841
+      round dot_4: 5477957723305623385
+      round dot_40: 1038026745261605686
+      round dot_41: 5489894518538160881
+      round dot_42: -3028784125193986773
+      round dot_43: -5686034321992536643
+      round dot_44: -5700320111578175362
+      round dot_45: 1754601161710004972
+      round dot_46: -4312091357623820322
+      round dot_47: -8384876383023135689
+      round dot_48: -3807451067346216072
+      round dot_49: -2664640592467593804
+      round dot_5: 1939903261917745494
+      round dot_50: 6484451091853111654
+      round dot_51: -7197037523678698159
+      round dot_52: 7338713583956703716
+      round dot_53: -8611928857376432218
+      round dot_54: -9100199130196555991
+      round dot_55: 1155070555488689836
+      round dot_56: 1530899767284218918
+      round dot_57: -6569083231629816048
+      round dot_58: 5099868021558766429
+      round dot_59: -2803446813175339404
+      round dot_6: -973855931226076949
+      round dot_60: 8659803573868175332
+      round dot_61: -2643970850759012218
+      round dot_62: 5150076289999800003
+      round dot_63: 2658823569219208059
+      round dot_64: 6522707021745194629
+      round dot_65: -5832673579355036201
+      round dot_66: 5229970523926180832
+      round dot_67: 9216185042408559559
+      round dot_68: 1644666823112633722
+      round dot_69: -4157716015421561563
+      round dot_7: -6404623239963364123
+      round dot_70: -7780279235540891752
+      round dot_71: 2415365685990598849
+      round dot_72: 3568530783297745024
+      round dot_73: 6426447935462768289
+      round dot_74: 8789018485855615729
+      round dot_75: -6986211979677095979
+      round dot_76: 4619787375897857324
+      round dot_77: -2546465591163599830
+      round dot_78: -8140259736695798432
+      round dot_79: 350348860762181384
+      round dot_8: -5320649642361807865
+      round dot_80: -5677571490720245296
+      round dot_81: -1254750773092517760
+      round dot_82: 8620710923392302937
+      round dot_83: -2797591378073089042
+      round dot_84: 1816422320862913342
+      round dot_85: -9218042721930400341
+      round dot_86: -4438170917426905288
+      round dot_87: -6937382728315003116
+      round dot_88: -4491416564088461564
+      round dot_89: -5840496301188680805
+      round dot_9: -8692014089248995997
+      round dot_90: 1549910702875032471
+      round dot_91: 2184141535796564200
+      round dot_92: -62331167396736774
+      round dot_93: 6202259499291275642
+      round dot_94: -1364511297928873089
+      round dot_95: -5030974434421395853
+      round dot_96: -6362470769325855428
+      round dot_97: -6045891324360033941
+      round dot_98: -1750592119163103103
+      round dot_99: -8569110723818504764
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
