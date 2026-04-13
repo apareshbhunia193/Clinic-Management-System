@@ -150,6 +150,7 @@ GameObject:
   - component: {fileID: 6337124445850760590}
   - component: {fileID: 2178647230629260903}
   - component: {fileID: 1218760025915550425}
+  - component: {fileID: 673760390951278710}
   m_Layer: 5
   m_Name: List Details Panel
   m_TagString: Untagged
@@ -260,6 +261,22 @@ MonoBehaviour:
   rowBackgroundImage: {fileID: 6337124445850760590}
   normalColor: {r: 0.078431375, g: 0.1764706, b: 0.13725491, a: 0}
   hoverColor: {r: 0.11764706, g: 0.22745098, b: 0.1764706, a: 1}
+--- !u!114 &673760390951278710
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1550225913461945570}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90d25ec4101897f45acaf97f3e4e0711, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::WaitlistRowUI
+  tokenText: {fileID: 4253460615938806715}
+  nameText: {fileID: 1151983861071080066}
+  timeText: {fileID: 7051613851965433247}
+  consultButton: {fileID: 7030783052020633139}
 --- !u!1 &2896503208180602629
 GameObject:
   m_ObjectHideFlags: 0
